@@ -1,2 +1,3 @@
 - [VRChatConfigurationEditor](https://github.com/project-vrcat/VRChatConfigurationEditor)
+- [vrchat-go](https://github.com/project-vrcat/vrchat-go)
 - [VRCat Mobile APP](https://github.com/project-vrcat/vrcat-mobile) (Coming soon)
