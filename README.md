@@ -1,3 +1,4 @@
 - [VRChatConfigurationEditor](https://github.com/project-vrcat/VRChatConfigurationEditor)
 - [vrchat-go](https://github.com/project-vrcat/vrchat-go)
+- [XSNotifier-Go](https://github.com/project-vrcat/XSNotifier-Go)
 - [VRCat Mobile APP](https://github.com/project-vrcat/vrcat-mobile) (Coming soon)
